@@ -1,6 +1,6 @@
 # slidev-theme-NISL
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-NISL?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-NISL)
+[![NPM version](https://img.shields.io/npm/v/slidev-theme-NISL?color=3AB9D4&label=)](https://wclsww.npmjs.com/package/slidev-theme-nisl)
 
 A NISL theme for [Slidev](https://github.com/slidevjs/slidev).
 
