@@ -4,7 +4,9 @@
 
 A NISL theme for [Slidev](https://github.com/slidevjs/slidev).
 
-仅仅初始化了一个版本，后期会根据实际使用情况进行更新。
+仅仅初始化了一个版本，后期会根据实际使用情况进行更新。QAQ 
+------------
+慢慢来吧  做自己喜欢的事
 
 <!--
   Learn more about how to write a theme:
